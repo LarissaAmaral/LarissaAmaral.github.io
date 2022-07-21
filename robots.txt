@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://LarissaAmaral.github.io/sitemap.xml
